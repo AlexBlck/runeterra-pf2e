@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Ionia/Locations/Temple of Tanjuul.md",
+                "file": "Shadows of Ionia/Locations/Thanze.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 313.5
   },
   "right": {
     "id": "61a63e6ed4a09c6c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadows of Ionia/Locations/Temple of Tanjuul.md",
+                "file": "Shadows of Ionia/Locations/Thanze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadows of Ionia/Locations/Temple of Tanjuul.md",
+                "file": "Shadows of Ionia/Locations/Thanze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadows of Ionia/Locations/Temple of Tanjuul.md"
+                "file": "Shadows of Ionia/Locations/Thanze.md"
               }
             }
           }
@@ -150,28 +150,39 @@
   },
   "active": "e20def423f5ee948",
   "lastOpenFiles": [
-    "Shadows of Ionia/Locations/Temple of Tanjuul.md",
     "index.md",
     "Shadows of Ionia/PCs/Xhokar.md",
     "Shadows of Ionia/PCs/Miyamoto.md",
     "Shadows of Ionia/PCs/K.md",
     "Shadows of Ionia/PCs/Isa.md",
     "Shadows of Ionia/NPCs/Zed.md",
-    "Shadows of Ionia/NPCs/Lillia.md",
-    "Shadows of Ionia/NPCs/L.md",
-    "Shadows of Ionia/Locations/Runeterra.md",
-    "Shadows of Ionia/NPCs/Sai.md",
     "Shadows of Ionia/NPCs/Shen.md",
+    "Shadows of Ionia/NPCs/Sai.md",
     "Shadows of Ionia/NPCs/Lee Sin.md",
+    "Shadows of Ionia/NPCs/L.md",
+    "Shadows of Ionia/NPCs/Kaori Shimida.md",
     "Shadows of Ionia/Locations/Thanze.md",
-    "Shadows of Ionia/NPCs/Higgs.md",
+    "Shadows of Ionia/Locations/Temple of Tanjuul.md",
+    "Shadows of Ionia/Locations/Shon-Xan.md",
+    "Shadows of Ionia/Locations/Runeterra.md",
+    "Shadows of Ionia/Locations/Puboe.md",
+    "Shadows of Ionia/Locations/Omikayalan.md",
     "Shadows of Ionia/Locations/Ionia.md",
     "Shadows of Ionia/Factions/Shadow Order.md",
-    "Shadows of Ionia/Factions/Navori Brotherhood.md",
     "Shadows of Ionia/Factions/Kinkou Order.md",
-    "Templates/Frontmatter.md",
-    "Shadows of Ionia/PCs/Xhokar.html",
-    "Shadows of Ionia/PCs/Higgs.md",
-    "2024-08-01.md"
+    "Shadows of Ionia/Locations/Navori.md",
+    "Shadows of Ionia/Locations/resources/thanze_banner.webp",
+    "Shadows of Ionia/NPCs/Higgs.md",
+    "Shadows of Ionia/NPCs/Lillia.md",
+    "Shadows of Ionia/Locations/Garden of Dreaming.md",
+    "Shadows of Ionia/PCs/resources/xhokar_portrait.webp",
+    "Shadows of Ionia/PCs/resources/miyamoto_portrait.png",
+    "Shadows of Ionia/PCs/resources/k_portrait.jpg",
+    "Shadows of Ionia/PCs/resources/isa_portrait.jpg",
+    "Shadows of Ionia/Locations/Shojin Monastery.md",
+    "Shadows of Ionia/Factions/Navori Brotherhood.md",
+    "Shadows of Ionia/NPCs/resources/l_small_splash.webp",
+    "Shadows of Ionia/NPCs/resources/lee_sin_splash.webp",
+    "Shadows of Ionia/PCs/Xhokar.html"
   ]
 }

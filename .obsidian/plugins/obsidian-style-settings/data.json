@@ -1,3 +1,4 @@
 {
-  "ITS@@select": "pathfinder"
+  "ITS@@select": "pathfinder",
+  "ITS@@file-line-width": 900
 }

@@ -1,4 +1,7 @@
-Village in [[Ionia]].
+![[thanze_banner.webp|banner]]
+Village in southern [[Navori]], [[Ionia]].
+
+# Map
 ```leaflet
 id: thanze-map
 image: [[thanze_map.jpg]]

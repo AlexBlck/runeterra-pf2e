@@ -1,7 +1,7 @@
 > [!infobox | right]
-> # Isa
-> ![[isa_portrait.jpg|cover hm-sm]]
-> >[!recite|bg-c-blue] [Pathbuilder](https://pathbuilder2e.com/launch.html?build=826857)
+> # Xhokar
+> ![[xhokar_portrait.webp|cover portrait ws-med]]
+> >[!recite|bg-c-blue] [Pathbuilder](https://pathbuilder2e.com/launch.html?build=833813)
 > 
 > ###### Stats
 > | Type | Stat |
