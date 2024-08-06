@@ -1,4 +1,0 @@
-## Members
-- **Current**
-	- [[Zed]]
-	- [[Sai]]

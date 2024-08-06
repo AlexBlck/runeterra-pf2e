@@ -1,0 +1,86 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaDrippingSword",
+      "RaCastleFlag",
+      "RaFrostEmblem",
+      "RaSproutEmblem",
+      "RaMonsterSkull"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
+    "debugMode": false
+  },
+  "Locations/Runeterra.md": "FarMap",
+  "Locations": "LiGlobe",
+  "Factions": "LiSwords",
+  "NPCs": "RaDoubleTeam",
+  "PCs": "RaPlayer",
+  "PCs/Isa.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "#51b8a3"
+  },
+  "PCs/K.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "#c6cccd"
+  },
+  "PCs/Miyamoto.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "#c03939"
+  },
+  "PCs/Xhokar.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "#f1721e"
+  },
+  "index.md": "LiHome",
+  "Session Notes": "LiNotebookPen",
+  "NPCs/L.md": {
+    "iconName": "RaLion",
+    "iconColor": "#befafe"
+  },
+  "Lore": "LiScroll",
+  "_resources": "FarImages",
+  "Lore/Species": "RaMonsterSkull",
+  "Locations/Ionia": {
+    "iconName": "RaSproutEmblem",
+    "iconColor": "#e26fc9"
+  },
+  "Locations/Ionia/Omikayalan.md": {
+    "iconName": "LiTreeDeciduous",
+    "iconColor": "#1c9b36"
+  },
+  "Locations/Freljord.md": {
+    "iconName": "RaFrostEmblem",
+    "iconColor": "#3195d3"
+  },
+  "Locations/Demacia.md": {
+    "iconName": "RaCastleFlag",
+    "iconColor": "#e0dfd1"
+  },
+  "Locations/Noxus.md": {
+    "iconName": "RaDrippingSword",
+    "iconColor": "#c20f2a"
+  }
+}

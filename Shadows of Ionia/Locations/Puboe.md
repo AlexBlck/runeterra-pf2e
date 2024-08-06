@@ -1,1 +1,0 @@
-Town in [[Shon-Xan]].

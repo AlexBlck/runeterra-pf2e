@@ -1,15 +1,16 @@
 # Welcome
-Here are some things to check out:
-- Factions
-	- [[Kinkou Order]]
-	- [[Shadow Order]]
+## Start Here
+- Session Notes
+	- [[Session 1]]
+	- [[Session 2]]
 - Locations
-	- [[Ionia]]
-	- [[Thanze]]
-- NPCs
-	- [[Zed]]
+	- [[Runeterra]]
+		- [[Ionia]]
+			- [[Thanze]]
 - PCs
 	- [[Isa]]
 	- [[K]]
 	- [[Miyamoto]]
 	- [[Xhokar]]
+## Useful External Links
+- [Rules - Archives of Nethys](https://2e.aonprd.com/)

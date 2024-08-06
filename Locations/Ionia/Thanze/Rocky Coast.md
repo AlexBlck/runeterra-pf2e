@@ -1,0 +1,1 @@
+![[rocky_coast.png|sban]]
