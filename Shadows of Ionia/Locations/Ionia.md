@@ -10,6 +10,6 @@ maxZoom: 10
 defaultZoom: 8
 unit: km
 scale: 1400
-marker: default,-1.0600738525390625,1.0152587890625,Shadow Order,,,
+marker: default,-1.0600738525390625,1.0152587890625,Temple of Tanjuul,,,
 marker: default,-1.1059722900390625,1.0748291015625,Thanze,,,
 ```
