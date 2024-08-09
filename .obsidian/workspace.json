@@ -11,9 +11,11 @@
             "id": "2605d69340f409b6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_resources/locations/shon-xan.webp"
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 200
   },
   "right": {
     "id": "61a63e6ed4a09c6c",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_resources/locations/shon-xan.webp",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_resources/locations/shon-xan.webp"
+                "file": "index.md"
               }
             }
           },
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_resources/locations/shon-xan.webp",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,20 +164,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0047bd0a449ef0ab",
+  "active": "2605d69340f409b6",
   "lastOpenFiles": [
-    "Factions/Shadow Order.md",
-    "Factions/Navori Brotherhood.md",
-    "Factions/Kinkou Order.md",
-    "Locations/Ionia/Garden of Dreaming.md",
-    "Locations/Ionia/Ionia.md",
-    "Locations/Ionia/Navori.md",
-    "Locations/Ionia/Omikayalan.md",
-    "Locations/Ionia/Puboe.md",
-    "Locations/Ionia/Shojin Monastery.md",
-    "Locations/Ionia/Shon-Xan.md",
-    "Locations/Ionia/Temple of Tanjuul.md",
+    "NPCs/L.md",
+    "Locations/Noxus.md",
+    "Locations/Freljord.md",
+    "Locations/Demacia.md",
+    "Locations/Runeterra.md",
     "_resources/locations/shon-xan.webp",
+    "index.md",
+    "Session Notes/Session 2.md",
+    "PCs/Xhokar.md",
+    "PCs/Miyamoto.md",
+    "PCs/K.md",
+    "PCs/Isa.md",
+    "NPCs/Zed.md",
+    "NPCs/Shen.md",
+    "NPCs/Lillia.md",
+    "NPCs/Lee Sin.md",
+    "NPCs/Higgs.md",
+    "NPCs/Thanze/Taro.md",
+    "NPCs/Thanze/Sai.md",
+    "NPCs/Thanze/May Li.md",
+    "NPCs/Thanze/Hanako.md",
+    "Lore/Species/Yordle.md",
+    "Lore/Species/Vastaya.md",
+    "Locations/Ionia/Shon-Xan.md",
+    "Locations/Ionia/Shojin Monastery.md",
+    "Locations/Ionia/Omikayalan.md",
+    "Locations/Ionia/Navori.md",
     "_resources/locations/placidium.webp",
     "_resources/concept/Pasted image 20240806171457.jpg",
     "_resources/locations/wehle.webp",
@@ -184,23 +202,8 @@
     "_resources/concept/Pasted image 20240806171454.jpg",
     "_resources/concept/Pasted image 20240806171155.jpg",
     "_resources/concept/Pasted image 20240806171102.jpg",
-    "Locations/Runeterra.md",
-    "Locations/Noxus.md",
-    "Locations/Freljord.md",
-    "Locations/Demacia.md",
     "Locations/Ionia",
-    "Lore/Species/Marai.md",
-    "Lore/Species/Vastaya.md",
-    "Lore/Species/Yordle.md",
     "Lore/Species",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 1.md",
-    "Locations/Ionia/Thanze/Rocky Coast.md",
-    "Locations/Ionia/Thanze/Farmhouse.md",
-    "Locations/Ionia/Thanze/Nature's Nook.md",
-    "NPCs/Lillia.md",
-    "NPCs/Shen.md",
-    "NPCs/Zed.md",
     "resources/locations/scarlet_sip.jpg.crdownload",
     "_resources/locations",
     "_resources/portraits",

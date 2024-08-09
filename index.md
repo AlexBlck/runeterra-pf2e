@@ -1,3 +1,7 @@
+---
+icon: LiHome
+title: Welcome
+---
 # Welcome
 ## Start Here
 - Session Notes

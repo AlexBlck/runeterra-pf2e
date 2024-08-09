@@ -1,3 +1,6 @@
+---
+icon: RaPlayer
+---
 > [!infobox | right]
 > # Miyamoto Musashi
 > ![[miyamoto_portrait.png|cover ws-med]]

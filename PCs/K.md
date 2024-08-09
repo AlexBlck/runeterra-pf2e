@@ -1,3 +1,6 @@
+---
+icon: RaPlayer
+---
 > [!infobox | right]
 > # K
 > ![[k_portrait.jpg|cover ws-med]]

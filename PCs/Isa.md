@@ -1,3 +1,6 @@
+---
+icon: RaPlayer
+---
 > [!infobox | right]
 > # Isa
 > ![[isa_portrait.jpg|cover ws-med]]

@@ -1,3 +1,6 @@
+---
+icon: LiTreeDeciduous
+---
 ![[omikayalan.webp|banner]]
 
 **Omikayalan**, known also as the **Heart of the World** or the **Greenglade**, is a sacred grove to all Ionians which is located in [[Navori]].

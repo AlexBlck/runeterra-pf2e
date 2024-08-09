@@ -1,3 +1,6 @@
+---
+icon: RaPlayer
+---
 > [!infobox | right]
 > # Xhokar
 > ![[xhokar_portrait.webp|cover portrait ws-med]]

@@ -1,3 +1,6 @@
+---
+icon: FarMap
+---
 ![[map_runeterra_drawn.jpg|sban]]
 > [!recite|bg-plain]+ Runeterra
 > > [!recite|bg-gray]- Valoran
