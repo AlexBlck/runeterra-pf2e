@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "NPCs/Kusho.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "NPCs/Kusho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "NPCs/Kusho.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "NPCs/Kusho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,8 +143,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "373c3d472c952fa6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -164,21 +173,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2605d69340f409b6",
+  "active": "0047bd0a449ef0ab",
   "lastOpenFiles": [
+    "NPCs/Zed.md",
+    "NPCs/Kusho.md",
+    "Session Notes/Session 2.md",
+    "index.md",
     "NPCs/L.md",
     "Locations/Noxus.md",
     "Locations/Freljord.md",
     "Locations/Demacia.md",
     "Locations/Runeterra.md",
     "_resources/locations/shon-xan.webp",
-    "index.md",
-    "Session Notes/Session 2.md",
     "PCs/Xhokar.md",
     "PCs/Miyamoto.md",
     "PCs/K.md",
     "PCs/Isa.md",
-    "NPCs/Zed.md",
     "NPCs/Shen.md",
     "NPCs/Lillia.md",
     "NPCs/Lee Sin.md",
@@ -192,7 +202,6 @@
     "Locations/Ionia/Shon-Xan.md",
     "Locations/Ionia/Shojin Monastery.md",
     "Locations/Ionia/Omikayalan.md",
-    "Locations/Ionia/Navori.md",
     "_resources/locations/placidium.webp",
     "_resources/concept/Pasted image 20240806171457.jpg",
     "_resources/locations/wehle.webp",
