@@ -8,9 +8,10 @@
 - In the evening, the party went to the ceremony, held on the [[Rocky Coast]].
 - During her speech, [[Lady Kaori Shimida]] revealed that she is planning to sign a ceasefire with [[Noxus]] to prevent further bloodshed and help up a scroll with the agreement.
 - At this time, the shots were fired at the three fairies who were providing the musical accompaniment to the event.
-- Despite the attempts to protect her, the fourth shot struck [[Lady Kaori Shimida]]
+- Despite the attempts to protect her, the fourth shot struck [[Lady Kaori Shimida]].
 - The fairies came back to life and attacked the party. 
 - They summoned an aquatic monster, stole a scroll from [[Lady Kaori Shimida|Lady Kaori's]] body and escaped.
+- [[Isa]] tried to catch up to them but couldn't.
 - The party defeated the monster.
 	- [[K]] realised that the ceasefire agreement scroll was still present and that it was her scroll that was taken.
 - Upon investigation, the party learned that the shots were coming from the direction of the nearby rice farm and that none of the farmer family members were present at the ceremony.

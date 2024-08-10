@@ -1,4 +1,4 @@
-Continent of [[Runeterra]].
+Continent of [[Runeterra]]
 ```leaflet
 id: ionia-map
 image: [[map_ionia.jpg]]

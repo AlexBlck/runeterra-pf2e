@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaSpeechBubble",
+      "LiTableProperties",
+      "LiGlobe",
       "RaDrippingSword",
-      "RaCastleFlag",
-      "RaFrostEmblem",
-      "RaSproutEmblem",
-      "RaMonsterSkull"
+      "RaCastleFlag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,8 +33,6 @@
     "lucideIconPackType": "custom",
     "debugMode": false
   },
-  "Locations/Runeterra.md": "FarMap",
-  "Locations": "LiGlobe",
   "Factions": "LiSwords",
   "NPCs": "RaDoubleTeam",
   "PCs": "RaPlayer",
@@ -63,24 +61,26 @@
   "Lore": "LiScroll",
   "_resources": "FarImages",
   "Lore/Species": "RaMonsterSkull",
-  "Locations/Ionia": {
+  "Runeterra/Ionia": {
     "iconName": "RaSproutEmblem",
     "iconColor": "#e26fc9"
   },
-  "Locations/Ionia/Omikayalan.md": {
-    "iconName": "LiTreeDeciduous",
-    "iconColor": "#1c9b36"
-  },
-  "Locations/Freljord.md": {
-    "iconName": "RaFrostEmblem",
-    "iconColor": "#3195d3"
-  },
-  "Locations/Demacia.md": {
+  "Runeterra/Demacia.md": {
     "iconName": "RaCastleFlag",
     "iconColor": "#e0dfd1"
   },
-  "Locations/Noxus.md": {
+  "Runeterra/Noxus.md": {
     "iconName": "RaDrippingSword",
     "iconColor": "#c20f2a"
-  }
+  },
+  "Runeterra": "LiGlobe",
+  "Runeterra/Ionia/Navori/Omikayalan.md": {
+    "iconName": "LiTreeDeciduous",
+    "iconColor": "#1c9b36"
+  },
+  "Runeterra/Freljord": {
+    "iconName": "RaFrostEmblem",
+    "iconColor": "#3ca5c8"
+  },
+  "_templates": "LiTableProperties"
 }

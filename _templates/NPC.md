@@ -1,19 +1,19 @@
 ---
 type: NPC
-location: "[[Thanze]]"
-building: "[[Town Hall]]"
-name: Lady Kaori Shimida
-alive: false
-description: Current leader of [[Thanze]]
+location:
+building:
+description: 
+name:
+alive: true
 faction: 
-species: "[[Human]]"
-gender: Female
-age: "50's"
+species:
+gender: 
+age: 
 ---
 
-> [!infobox | right]
+> [!infobox | right ]
 > # `= this.name`
-> ![[kaori_splash.jpg|profile+medium p+ccr]]
+> ![[hanako_splash.png|profile+medium]]
 > # Bio
 > |  |  |
 > | ---- | ---- |
@@ -27,6 +27,9 @@ age: "50's"
 > -  `= this.location`
 > 	- `= this.building` 
 
+
+# Description
+**`= this.name`** is a 
 # Interactions
 ```dataview
 table L.text as Interaction

@@ -1,21 +1,32 @@
 ---
-icon: RaPlayer
+type: PC
+name: Isa
+alive: true
+faction: 
+species: "[[Human]]"
+gender: Female
+age: "26"
 ---
+
 > [!infobox | right]
-> # Isa
+> # `= this.name`
 > ![[isa_portrait.jpg|cover ws-med]]
 > >[!recite|bg-c-blue] [Pathbuilder](https://pathbuilder2e.com/launch.html?build=826857)
 > 
-> ###### Stats
-> | Type | Stat |
+> # Bio
+> |  |  |
 > | ---- | ---- |
-> | Test | Testing |
-> ## Heading 2
+> | **Species** |  `= this.species` |
+> | **Age** |  `= this.age` | 
+> | **Gender** | `= this.gender` |
 > # Relationthips
-> >[!kith|friend] **[[Sai]]** _Childhood Friend_
+> |  |  |
+> | ---- | ---- |
+> 
+> >[!kith|friend] **[[Sai]]**
 
 ```pf2e-stats
-# Isa
+# `= this.name`
 ## Magus 2
 
 ---
@@ -41,3 +52,11 @@ icon: RaPlayer
 Was a student at the [[Kinkou Order]] under [[Shen|Master Shen]] together with her friend [[Sai]]. [[Sai]] left a few years back to join the [[Shadow Order]] and since then she's been questioning the non-intervention position of the [[Kinkou Order]]. Finally, she decided to follow [[Sai|Sai's]] footsteps and left the Kinkou. However, she is not convinced she wants to join the Shadow Order. So she has travelled to [[Thanze]], where she has been a guest of [[Sai|Sai's]] for a couple of weeks, gathering her thoughts and planning to visit the [[Temple of Tanjuul]]to have a chat with the [[Shadow Order]].
 # Recent Events
 - [[Sai]] asks Isa to cover for him on a job while he travels to the [[Temple of Tanjuul]] to meet with Master [[Zed]]. The job involves meeting lady [[Lady Kaori Shimida|Kaori]] at the port as she returns to [[Thanze]].
+
+# Interactions
+```dataview
+table L.text as Interaction
+from "Session Notes"
+flatten file.lists as L
+where contains(L.text, this.name)
+```

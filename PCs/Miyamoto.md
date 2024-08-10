@@ -1,5 +1,6 @@
 ---
 icon: RaPlayer
+name: Miyamoto
 ---
 > [!infobox | right]
 > # Miyamoto Musashi
@@ -40,3 +41,10 @@ icon: RaPlayer
 ```
 # Biography
 Former student of [[Lee Sin]] who left the [[Shojin Monastery]]
+# Interactions
+```dataview
+table L.text as Interaction
+from "Session Notes"
+flatten file.lists as L
+where contains(L.text, this.name)
+```

@@ -1,5 +1,6 @@
 ---
 icon: RaPlayer
+name: Xhokar
 ---
 > [!infobox | right]
 > # Xhokar
@@ -17,5 +18,11 @@ icon: RaPlayer
 > >[!kith|friend] **[[Lee Sin]]**
 
 # Biography
-
 Xhokar is a monk from the [[Shojin Monastery]], where he's been taught by [[Lee Sin]].
+# Interactions
+```dataview
+table L.text as Interaction
+from "Session Notes"
+flatten file.lists as L
+where contains(L.text, this.name)
+```

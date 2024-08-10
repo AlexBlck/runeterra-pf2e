@@ -1,5 +1,6 @@
 ---
 icon: RaPlayer
+name: K
 ---
 > [!infobox | right]
 > # K
@@ -45,3 +46,10 @@ Born in a small village in the northern mountains of [[Shon-Xan]], not too far f
 
 > [!warning]- Spoilers
 >  - [[Lillia]] showed K that a sapling has risen from the dead trunks of [[Omikayalan|God-Willow Tree]], urging her to share that information with [[Lady Kaori Shimida]], leader of [[Thanze]].
+# Interactions
+```dataview
+table L.text as Interaction
+from "Session Notes"
+flatten file.lists as L
+where contains(L.text, this.name + "]]")
+```

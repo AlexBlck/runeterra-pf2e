@@ -12,3 +12,4 @@
 - [[Miyamoto]] and [[Isa]] visited [[Nature's Nook]] and bought two health potions from [[May Li]] - one red and one green.
 - [[Xhokar]] went to the shore, met the local fisherman [[Taro]] and learned some new things about [[Marai]] culture.
 - The party reconvened at the [[Scarlet Sip Tavern]] for a drink before the ceremony.
+
