@@ -1,13 +1,13 @@
 ![[thanze_banner.webp|banner]]
 Village in southern [[Navori]], [[Ionia]].
-# Notable Inhabitants
+## Notable Inhabitants
 ```dataview
 table building as Building, faction as Faction, description as Description
 from "NPCs"
 WHERE contains(type, "NPC") and contains(location, [[Thanze]])
 sort rating desc
 ```
-# Map
+## Map
 ```leaflet
 id: thanze-map
 image: [[map_thanze.jpg]]

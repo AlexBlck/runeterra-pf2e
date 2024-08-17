@@ -31,9 +31,9 @@ age:
 # Description
 **`= this.name`** is a 
 # Interactions
-```dataview
-table L.text as Interaction
-from "Session Notes"
-flatten file.lists as L
-where contains(L.text, this.name)
-```
+<!-- QueryToSerialize: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+<!-- SerializedQuery: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+
+| File | Interaction |
+| ---- | ----------- |
+<!-- SerializedQuery END -->

@@ -14,4 +14,4 @@
 > 
 > > [!kith|antagonist] [[Zed]] - Former friend
 
-# Bio
+## Bio

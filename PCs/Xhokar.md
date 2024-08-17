@@ -17,12 +17,17 @@ name: Xhokar
 > 
 > >[!kith|friend] **[[Lee Sin]]**
 
-# Biography
+## Biography
 Xhokar is a monk from the [[Shojin Monastery]], where he's been taught by [[Lee Sin]].
-# Interactions
-```dataview
-table L.text as Interaction
-from "Session Notes"
-flatten file.lists as L
-where contains(L.text, this.name)
-```
+## Interactions
+<!-- QueryToSerialize: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+<!-- SerializedQuery: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+
+| File                                      | Interaction                                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 1.md\|Session 1]] | [[Higgs]], [[Lady Kaori Shimida]], [[Isa]], [[K]], [[L]], [[Miyamoto]] and [[Xhokar]] met at the [[Crossroads]] near [[Thanze]]. |
+| [[Session Notes/Session 1.md\|Session 1]] | [[Xhokar]] went to the shore, met the local fisherman [[Taro]] and learned some new things about [[Marai]] culture.              |
+| [[Session Notes/Session 2.md\|Session 2]] | [[Xhokar]] and [[Miyamoto]] had a chat with the [[Shadow Order]] members, who were enjoying their on the house free drinks.      |
+<!-- SerializedQuery END -->
+
+

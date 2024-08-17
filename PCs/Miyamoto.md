@@ -39,12 +39,17 @@ name: Miyamoto
 **Double Slice** `[two-actions]` **Requirements** You are wielding two melee weapons, each in a different hand. You lash out at your foe with both weapons. Make two Strikes, one with each of your two melee weapons, each using your current multiple attack penalty. Both Strikes must have the same target. If the second Strike is made with a weapon that doesn't have the agile trait, it takes a –2 penalty. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. You add any precision damage only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating your multiple attack penalty.
 **Sudden Charge** `[two-actions]` ==Flourish==  Stride twice. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy.
 ```
-# Biography
+## Biography
 Former student of [[Lee Sin]] who left the [[Shojin Monastery]]
-# Interactions
-```dataview
-table L.text as Interaction
-from "Session Notes"
-flatten file.lists as L
-where contains(L.text, this.name)
-```
+## Interactions
+<!-- QueryToSerialize: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+<!-- SerializedQuery: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+
+| File                                      | Interaction                                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 1.md\|Session 1]] | [[Higgs]], [[Lady Kaori Shimida]], [[Isa]], [[K]], [[L]], [[Miyamoto]] and [[Xhokar]] met at the [[Crossroads]] near [[Thanze]]. |
+| [[Session Notes/Session 1.md\|Session 1]] | [[Miyamoto]] and [[Isa]] visited [[Nature's Nook]] and bought two health potions from [[May Li]] - one red and one green.        |
+| [[Session Notes/Session 2.md\|Session 2]] | [[Xhokar]] and [[Miyamoto]] had a chat with the [[Shadow Order]] members, who were enjoying their on the house free drinks.      |
+<!-- SerializedQuery END -->
+
+

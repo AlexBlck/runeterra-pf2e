@@ -13,10 +13,11 @@ alive: true
 > Marai
 
 Taro, a Marai with scales reminiscent of ocean waves, has a sleek and aquatic appearance. His eyes, a deep shade of azure, reflect the mysteries of the sea. Taro wears a wide-brimmed hat adorned with seaweed and shells, and his hands, webbed and nimble, expertly handle the day's catch. The essence of the ocean clings to him, creating an air of maritime allure.
-# Interactions
-```dataview
-table L.text as Interaction
-from "Session Notes"
-flatten file.lists as L
-where contains(L.text, this.name)
-```
+## Interactions
+<!-- QueryToSerialize: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+<!-- SerializedQuery: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+
+| File                                      | Interaction                                                                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 1.md\|Session 1]] | [[Xhokar]] went to the shore, met the local fisherman [[Taro]] and learned some new things about [[Marai]] culture. |
+<!-- SerializedQuery END -->

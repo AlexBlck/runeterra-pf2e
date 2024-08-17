@@ -10,5 +10,6 @@
   "obsidian-git",
   "folder-note-plugin",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview-serializer"
 ]

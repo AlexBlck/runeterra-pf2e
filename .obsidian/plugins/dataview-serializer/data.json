@@ -1,0 +1,10 @@
+{
+  "foldersToScan": [
+    "PCs",
+    "NPCs",
+    "/"
+  ],
+  "ignoredFolders": [
+    "_resources"
+  ]
+}

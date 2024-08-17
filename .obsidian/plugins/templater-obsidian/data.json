@@ -17,6 +17,10 @@
     {
       "folder": "NPCs",
       "template": "_templates/NPC.md"
+    },
+    {
+      "folder": "GM Screen/Level-ups",
+      "template": "_templates/Level X.md"
     }
   ],
   "syntax_highlighting": true,

@@ -14,12 +14,13 @@ alive: true
 > # Relationthips
 > >[!kith|friend] **[[Isa]]** Friend
 
-# Biography
+## Biography
 [[Isa|Isa's]] friend, left [[Kinkou Order]] and joined the [[Shadow Order]].
-# Interactions
-```dataview
-table L.text as Interaction
-from "Session Notes"
-flatten file.lists as L
-where contains(L.text, this.name)
-```
+## Interactions
+<!-- QueryToSerialize: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+<!-- SerializedQuery: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+
+| File                                      | Interaction                                                                                                                                        |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 1.md\|Session 1]] | She gave [[K]] and others permission to act as her bodyguards, seeing as the usual group of [[Shadow Order]] members, led by [[Sai]] were missing. |
+<!-- SerializedQuery END -->

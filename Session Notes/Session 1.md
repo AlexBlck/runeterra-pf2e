@@ -1,3 +1,4 @@
+## Session 1
 - [[Higgs]] arrived to [[Thanze]] on the same ship as [[Lady Kaori Shimida]].
 - [[Higgs]], [[Lady Kaori Shimida]], [[Isa]], [[K]], [[L]], [[Miyamoto]] and [[Xhokar]] met at the [[Crossroads]] near [[Thanze]].
 	- They defended [[Lady Kaori Shimida]] from an ambush of violent spirits, inhabiting trees and pumpkins.

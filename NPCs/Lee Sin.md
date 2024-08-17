@@ -1,3 +1,4 @@
+## Lee Sin
 > [!infobox | right]
 > # Lee Sin
 > ![[lee_sin_splash.webp|profile+medium p+ccr]]

@@ -6,6 +6,7 @@ faction:
 species: "[[Human]]"
 gender: Female
 age: "26"
+icon: RaPlayer
 ---
 
 > [!infobox | right]
@@ -48,15 +49,18 @@ age: "26"
 **Arcane Cascade** `[one-action]`
 **Arcane Prepared Spells** DC 16, attack +6
 ```
-# Biography
+## Biography
 Was a student at the [[Kinkou Order]] under [[Shen|Master Shen]] together with her friend [[Sai]]. [[Sai]] left a few years back to join the [[Shadow Order]] and since then she's been questioning the non-intervention position of the [[Kinkou Order]]. Finally, she decided to follow [[Sai|Sai's]] footsteps and left the Kinkou. However, she is not convinced she wants to join the Shadow Order. So she has travelled to [[Thanze]], where she has been a guest of [[Sai|Sai's]] for a couple of weeks, gathering her thoughts and planning to visit the [[Temple of Tanjuul]]to have a chat with the [[Shadow Order]].
-# Recent Events
+## Recent Events
 - [[Sai]] asks Isa to cover for him on a job while he travels to the [[Temple of Tanjuul]] to meet with Master [[Zed]]. The job involves meeting lady [[Lady Kaori Shimida|Kaori]] at the port as she returns to [[Thanze]].
 
-# Interactions
-```dataview
-table L.text as Interaction
-from "Session Notes"
-flatten file.lists as L
-where contains(L.text, this.name)
-```
+## Interactions
+<!-- QueryToSerialize: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+<!-- SerializedQuery: TABLE L.text as Interaction FROM "Session Notes" FLATTEN file.lists as L WHERE contains(L.text, this.name) -->
+
+| File                                      | Interaction                                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 1.md\|Session 1]] | [[Higgs]], [[Lady Kaori Shimida]], [[Isa]], [[K]], [[L]], [[Miyamoto]] and [[Xhokar]] met at the [[Crossroads]] near [[Thanze]]. |
+| [[Session Notes/Session 1.md\|Session 1]] | [[Miyamoto]] and [[Isa]] visited [[Nature's Nook]] and bought two health potions from [[May Li]] - one red and one green.        |
+| [[Session Notes/Session 2.md\|Session 2]] | [[Isa]] tried to catch up to them but couldn't.                                                                                  |
+<!-- SerializedQuery END -->

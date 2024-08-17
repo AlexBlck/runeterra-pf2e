@@ -1,4 +1,5 @@
-## Members
+## Kinkou Order
+### Members
 - **Current**
 	- [[Shen]]
 - **Past**

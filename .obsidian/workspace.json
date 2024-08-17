@@ -4,19 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "79d7022e5bca4b5c",
+        "id": "d7775ad24a3f0ac7",
         "type": "tabs",
+        "dimension": 65.78483245149911,
         "children": [
           {
-            "id": "5f885a3ce03c1b94",
+            "id": "be4518bf54f17923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Isa.md",
+                "file": "Runeterra/Ionia/Navori/Thanze/Farmhouse.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "79d7022e5bca4b5c",
+        "type": "tabs",
+        "dimension": 34.21516754850088,
+        "children": [
+          {
+            "id": "6d571dc2cc110497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/Rules/Encounter Design.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Isa.md",
+                "file": "Runeterra/Ionia/Navori/Thanze/Farmhouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs/Isa.md"
+                "file": "Runeterra/Ionia/Navori/Thanze/Farmhouse.md"
               }
             }
           },
@@ -113,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs/Isa.md",
+                "file": "Runeterra/Ionia/Navori/Thanze/Farmhouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,48 +191,51 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "calendarium:Open Calendarium": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "5f885a3ce03c1b94",
+  "active": "be4518bf54f17923",
   "lastOpenFiles": [
-    "NPCs/Thanze/Raijin.md",
-    "NPCs/Thanze/Sai.md",
-    "NPCs/Thanze/May Li.md",
-    "NPCs/Thanze/Lady Kaori Shimida.md",
-    "NPCs/Thanze/Hanako.md",
-    "NPCs/Thanze/Taro.md",
+    "_resources/locations/farmhouse_zhepeku.png",
+    "GM Screen/Session Plans/Session 3.md",
+    "GM Screen/Rules/Loot per Level.md",
+    "GM Screen/Rules/Encounter Design.md",
+    "_templates/Level X.md",
     "_templates/NPC.md",
-    "NPCs/Thanze/Untitled.md",
-    "NPCs/Thanze/Untitled 1.md",
+    "Runeterra/Ionia/Ionia.md",
+    "Runeterra/Ionia/Navori/Navori.md",
+    "Runeterra/Ionia/Navori/Thanze/Thanze.md",
+    "Runeterra/Runeterra.md",
+    "Runeterra/Ionia/Navori/Thanze/Farmhouse.md",
+    "PCs/K.md",
+    "PCs/Isa.md",
+    "GM Screen/Level-ups/Level 2.md",
+    "GM Screen/Level-ups/Level 1.md",
+    "PCs/Xhokar.md",
+    "GM Screen/Level-ups",
+    "Session Notes/Session 1.md",
+    "GM Screen/Rules",
+    "GM Screen",
+    "GM Screen/Session Plans",
+    "NPCs/Higgs.md",
+    "Runeterra/Ionia/Shon-Xan/Shon-Xan.md",
+    "Runeterra/Untitled.canvas",
+    "index.md",
+    "Session Notes/Session 2.md",
+    "Runeterra/Ionia/Shon-Xan/Puboe.md",
+    "Runeterra/Ionia/Shon-Xan/Garden of Dreaming.md",
+    "Runeterra/Ionia/Navori/Temple of Tanjuul.md",
+    "Runeterra/Ionia/Navori/Omikayalan.md",
+    "Runeterra/Ionia/Navori/Thanze/Yellow Coast.md",
     "_resources/portraits/kaori_splash.jpg",
     "_resources/portraits/k_portrait.jpg",
-    "PCs/Isa.md",
-    "PCs/K.md",
-    "Lore/Species/Human.md",
-    "Lore/Species/Marai.md",
-    "Untitled.md",
-    "Factions/Navori Brotherhood.md",
-    "NPCs/Sai'nen Thousand-Tailed.md",
-    "Factions/Kinkou Order.md",
-    "NPCs/Thanze/Pykaka.md",
-    "NPCs/Green Father.md",
-    "NPCs/Lee Sin.md",
     "_templates",
-    "Runeterra/Runeterra.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 1.md",
-    "Runeterra/Ionia/Ionia.md",
-    "Runeterra/Ionia/Navori/Thanze/Yellow Coast.md",
-    "Runeterra/Ionia/Navori/Navori.md",
     "Runeterra/Freljord",
     "Runeterra/Freljord",
     "Runeterra/Ionia/Navori",
     "Runeterra/Ionia/Shon-Xan",
     "Runeterra",
-    "Locations",
-    "4913",
     "_resources/locations/shon-xan.webp",
     "_resources/locations/placidium.webp",
     "_resources/concept/Pasted image 20240806171457.jpg",
@@ -219,8 +243,6 @@
     "_resources/concept/Pasted image 20240806171347.jpg",
     "_resources/concept/Pasted image 20240806171240.jpg",
     "_resources/concept/Pasted image 20240806171451.jpg",
-    "_resources/concept/Pasted image 20240806171454.jpg",
-    "Runeterra/Ionia",
-    "Lore/Species"
+    "_resources/concept/Pasted image 20240806171454.jpg"
   ]
 }

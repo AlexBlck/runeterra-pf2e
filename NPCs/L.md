@@ -1,6 +1,7 @@
 ---
 icon: RaLion
 ---
+## L
 > [!infobox | right]
 > # L
 > ![[l_small_splash.webp|profile+medium]]
