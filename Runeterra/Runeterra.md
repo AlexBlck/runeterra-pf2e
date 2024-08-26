@@ -36,7 +36,7 @@ icon: FarMap
 > > 
 > > > [!recite|bg-purple]- Zhyun
 
-
+![[Pasted image 20240826194543.png]]
 ```leaflet
 id: runeterra-map
 image: [[map_runeterra.jpg]]
