@@ -9,7 +9,5 @@
   "obsidian-icon-folder",
   "obsidian-git",
   "folder-note-plugin",
-  "dataview",
-  "templater-obsidian",
-  "dataview-serializer"
+  "dataview"
 ]
