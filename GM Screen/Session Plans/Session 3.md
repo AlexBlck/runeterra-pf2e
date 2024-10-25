@@ -3,6 +3,7 @@
 [[Loot per Level]] 1:
 
 ![[Level 1]]
+![[Level 2]]
 ### [[K]]
 - Explain spell prep
 	- Discuss [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658)/[Runic Body](https://2e.aonprd.com/Spells.aspx?ID=1657)

@@ -1,14 +1,16 @@
 ---
 type: NPC
-location:
-building:
+location: 
+building: 
 description: 
-name:
+name: 
 alive: true
 faction: 
-species:
+species: 
 gender: 
 age: 
+occupation: 
+goal:
 ---
 
 > [!infobox | right ]

@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "level": "number"
+    "level": "number",
+    "occupation": "multitext",
+    "age": "number",
+    "faction": "multitext"
   }
 }
